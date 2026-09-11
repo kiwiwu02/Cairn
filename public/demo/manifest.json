@@ -1,0 +1,14 @@
+{
+  "name": "示例学习库",
+  "files": [
+    {"path": "notes/welcome.md", "name": "welcome.md"},
+    {"path": "notes/study-plan.md", "name": "study-plan.md"},
+    {"path": "examples/lru-cache.js", "name": "lru-cache.js"},
+    {"path": "notebooks/quickstart.ipynb", "name": "quickstart.ipynb"},
+    {"path": "leetcode/27-remove-element.md", "name": "27-remove-element.md"},
+    {"path": "leetcode/146-lru-cache.md", "name": "146-lru-cache.md"},
+    {"path": "leetcode/283-move-zeroes.md", "name": "283-move-zeroes.md"},
+    {"path": "leetcode/485-max-consecutive-ones.md", "name": "485-max-consecutive-ones.md"},
+    {"path": "assets/learning-map.svg", "name": "learning-map.svg"}
+  ]
+}

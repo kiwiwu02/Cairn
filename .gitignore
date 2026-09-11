@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.DS_Store
+.cairn-workspace.json
+.cairn-workspace.json.tmp
+.learning-workspace.json
+.learning-workspace.json.tmp
+__pycache__/

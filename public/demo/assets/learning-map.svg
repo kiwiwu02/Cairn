@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+  <rect width="920" height="420" rx="28" fill="#fff7ed"/>
+  <path d="M130 250C245 80 365 100 465 205S700 325 805 135" fill="none" stroke="#d97706" stroke-width="7" stroke-linecap="round" stroke-dasharray="3 18"/>
+  <circle cx="130" cy="250" r="24" fill="#d97706"/>
+  <circle cx="465" cy="205" r="24" fill="#b45309"/>
+  <circle cx="805" cy="135" r="24" fill="#181817"/>
+  <text x="100" y="315" fill="#181817" font-family="Arial, sans-serif" font-size="24" font-weight="700">开始</text>
+  <text x="420" y="270" fill="#181817" font-family="Arial, sans-serif" font-size="24" font-weight="700">理解</text>
+  <text x="760" y="100" fill="#181817" font-family="Arial, sans-serif" font-size="24" font-weight="700">掌握</text>
+</svg>

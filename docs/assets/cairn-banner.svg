@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title description">
+  <title id="title">Cairn · 记录通往精通的每一步 · Mark Your Way to Mastery.</title>
+  <desc id="description">Cairn 的品牌横幅，包含三层山径标志与中英文品牌标语。</desc>
+
+  <rect width="1600" height="420" rx="24" fill="#FFFCF8"/>
+  <rect x="1" y="1" width="1598" height="418" rx="23" fill="none" stroke="#E7E1D8" stroke-width="2"/>
+
+  <rect x="76" y="76" width="132" height="268" rx="22" fill="#FFF2DF"/>
+  <g transform="translate(87 172)">
+    <rect x="33" y="0" width="44" height="16" rx="8" fill="#E8AE68"/>
+    <rect x="16" y="29" width="78" height="16" rx="8" fill="#D97706"/>
+    <rect x="0" y="58" width="110" height="16" rx="8" fill="#B45309"/>
+  </g>
+
+  <text x="282" y="188" fill="#181817" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Cairn</text>
+  <line x1="286" y1="218" x2="1298" y2="218" stroke="#E7B46F" stroke-width="2"/>
+  <text x="282" y="278" fill="#B45309" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="30" font-weight="600" letter-spacing=".2">记录通往精通的每一步 · Mark Your Way to Mastery.</text>
+  <text x="282" y="324" fill="#88847D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">LOCAL-FIRST LEARNING WORKSPACE</text>
+</svg>

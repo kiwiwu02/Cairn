@@ -1,0 +1,25 @@
+{
+  "name": "cairn-learning-workspace",
+  "description": "A local-first learning workspace for organizing, reading, and revisiting files.",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "bridge": "python3 bridge/server.py",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dompurify": "^3.2.6",
+    "highlight.js": "^11.11.1",
+    "mammoth": "^1.9.1",
+    "marked": "^16.1.2",
+    "pdfjs-dist": "^6.3.289"
+  },
+  "devDependencies": {
+    "vite": "^7.1.4"
+  }
+}
